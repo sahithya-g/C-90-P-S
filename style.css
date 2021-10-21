@@ -1,0 +1,19 @@
+body{
+    background: crimson;
+    text-align: center;
+}
+.p1{
+    width: 800px;
+    height: 200px;
+    background-color: dodgerblue;
+    font-size:x-large;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    
+}
+#loginbtn{
+    width:200px;
+    height:40px;
+    background-color: indianred;
+    border-radius: 20px;
+}

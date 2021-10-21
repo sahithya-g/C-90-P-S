@@ -1,0 +1,16 @@
+#output{
+    background: white;
+    text-align: left;
+    border-radius: 10px;
+    border-top: 10px solid rebeccapurple;
+    padding:10px;
+}
+body{
+    background: chocolate;
+}
+#btnsend{
+    margin-left:660px;
+    background-color: rgb(103, 135, 233);
+    border-color: black;
+    border-radius: 5px;
+}
